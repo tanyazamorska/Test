@@ -1,3 +1,5 @@
 .idea
-node_modules
-public
+.gitignore
+/node_modules
+/public
+
