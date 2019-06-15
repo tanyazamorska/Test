@@ -1,10 +1,14 @@
 import React from 'react';
-import Layout from './pages/Layout';
-
+import Container from './components/Container/Container';
 import './App.css';
 
+
 function App() {
-  return <Layout/>;
+  return (
+    <div className="container-fluid">
+      <Container/>
+    </div>
+  );
 }
 
 export default App;

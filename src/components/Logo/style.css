@@ -1,0 +1,19 @@
+.logo-container {
+    padding-top: 53px;
+}
+.logo {
+    height: 40px;
+}
+.padding-top {
+    padding-top: 20px;
+}
+.logo-subtitle {
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 5.6px;
+    text-transform: uppercase;
+    color: #191919;
+}
